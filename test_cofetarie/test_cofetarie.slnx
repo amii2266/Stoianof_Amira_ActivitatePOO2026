@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="test_cofetarie/test_cofetarie.vcxproj" Id="0c01958b-2ba5-488d-b3da-e5f9f6e9e75c" />
+</Solution>
